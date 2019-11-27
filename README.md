@@ -8,6 +8,10 @@ A repo full of few things I do to keep myself busy
 
 ## Repo
 - https://github.com/nishontan/siamese-goggles
+> An attempt to use siamese network for face verification.
+
+- https://github.com/nishontan/bhetincha-scraper
+> A scraper to get data from bheticha.com
 
 ## Articles
 - https://medium.com/@niyo177/recreating-a-basic-google-pixel-live-wallpapers-part-1-751fb7330139
