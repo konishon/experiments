@@ -16,5 +16,8 @@ A repo full of few things I do to keep myself busy
 - https://github.com/nishontan/Markov-Poem-Generator-
 > A implementation of [Poetry in Python: Using Markov Chains to Generate Texts by Omer Nevo](https://www.youtube.com/watch?v=yyNTjDkQQEk)
 
+- https://github.com/nishontan/fantastic-octo-computing-machine
+> A traffic analysis experiment
+
 ## Articles
 - https://medium.com/@niyo177/recreating-a-basic-google-pixel-live-wallpapers-part-1-751fb7330139
